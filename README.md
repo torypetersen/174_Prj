@@ -2,4 +2,4 @@
 
 #only one file used for connection, front-end, and backend
 
-sql inserts/selects found in: 174_DB_Project.php
+sql inserts/selects found in: 174_Prj/174_DB_Project.php
