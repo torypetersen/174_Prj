@@ -24,9 +24,9 @@
 
 <?php
 $servername = "ecs-pd-proj-db.ecs.csus.edu";
-$username = "CSC174035";
-$password = "Csc134_648774883";
-$database = "CSC174035";
+$username = "CSC174XXX";
+$password = "Csc134_XXXXXXXXX";
+$database = "CSC174XXX";
 
 //Check reload page if user submits something in text box
 if (isset($_POST['submit'])) {
